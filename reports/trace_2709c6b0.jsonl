@@ -1,0 +1,7 @@
+{"session_id": "2709c6b0", "name": "supervisor", "attributes": {"iteration": 0, "route": "researcher"}, "started_at": "2026-05-06T07:47:42.350657+00:00", "duration_seconds": 0.0001}
+{"session_id": "2709c6b0", "name": "researcher", "attributes": {"query": "What is GraphRAG and how does it work?", "sources_found": 0}, "started_at": "2026-05-06T07:47:42.351659+00:00", "duration_seconds": 0.3452}
+{"session_id": "2709c6b0", "name": "supervisor", "attributes": {"iteration": 1, "route": "analyst"}, "started_at": "2026-05-06T07:47:42.697646+00:00", "duration_seconds": 0.0001}
+{"session_id": "2709c6b0", "name": "analyst", "attributes": {"notes_len": 90, "input_tokens": 120, "output_tokens": 259}, "started_at": "2026-05-06T07:47:42.698497+00:00", "duration_seconds": 5.5623}
+{"session_id": "2709c6b0", "name": "supervisor", "attributes": {"iteration": 2, "route": "writer"}, "started_at": "2026-05-06T07:47:48.261577+00:00", "duration_seconds": 0.0001}
+{"session_id": "2709c6b0", "name": "writer", "attributes": {"input_tokens": 403, "output_tokens": 602}, "started_at": "2026-05-06T07:47:48.262401+00:00", "duration_seconds": 7.9588}
+{"session_id": "2709c6b0", "name": "supervisor", "attributes": {"iteration": 3, "route": "done"}, "started_at": "2026-05-06T07:47:56.221912+00:00", "duration_seconds": 0.0001}
